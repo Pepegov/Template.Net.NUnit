@@ -1,0 +1,14 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Pepegov",
+    "classifications": [ "Common", "Test" ],
+    "identity": "Template.Net.Microservice.NUnit",
+    "name": "NUnit",
+    "shortName": "Advanced NUnit template",
+    "tags": {
+      "language": "C#",
+      "type": "project"
+    },
+    "sourceName": "Template.Net.Microservice.NUnit",
+    "preferNameDirectory": true
+}
